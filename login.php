@@ -40,9 +40,9 @@ if(isset($_POST['submit']))
 
 
 }
-if(isset($_POST['reset'])){
-    header("location:reset.php");
-}
+// if(isset($_POST['reset'])){
+//     header("location:reset.php");
+// }
 
 ?>
 
