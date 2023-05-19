@@ -206,7 +206,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body>
 
 
-<script type="text/javascript"> var npf_d='https://admissions.kluniversity.in'; var npf_c='383'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>
+/* <script type="text/javascript"> var npf_d='https://admissions.kluniversity.in'; var npf_c='383'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script> */
 
 
 
@@ -405,7 +405,7 @@ top:hover, .article-body-wrap .share-links a:hover, .author-link, .carousel-wrap
             <li><a href="https://www.svecw.edu.in/index.php/about-us/about-society-sves">About Society</a></li>
             <li><a href="https://www.svecw.edu.in/index.php/placements/placements-details">Placement Details</a></li>
             <li><a href="https://www.svecw.edu.in/index.php/infrastructure">Infrastructure</a></li>
-            <!--<li><a href="mngt.aspx">Management</a></li>-->  
+            /* <!--<li><a href="mngt.aspx">Management</a></li>-->  
             <!-- <li class="dropdown-submenu">
             <a href="#">Leadership & Governance</a>
                 <ul class="dropdown-menu">
@@ -433,7 +433,7 @@ top:hover, .article-body-wrap .share-links a:hover, .author-link, .carousel-wrap
                     <li><a href="awardss.aspx">Awards</a></li>
                     <li><a href="past_events.aspx">Past Events</a></li>
                 </ul>
-            </li> -->
+            </li> --> */
             <li><a href="https://www.svecw.edu.in/index.php/contactus">Contact Information</a></li>
 
 
@@ -631,11 +631,11 @@ top:hover, .article-body-wrap .share-links a:hover, .author-link, .carousel-wrap
                     <p>© Copyright 2022 by SVECW. All Rights Reserved.</p>
 
                     <ul class="social-icons std-menu pull-right">
-                        <li><a href="https://www.facebook.com/KLUniversity/" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Facebook"><i class="fa fa-facebook"></i></a></li>                        
-                        <li><a href="https://www.youtube.com/kluniversitylive" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Youtube"><i class="fa fa-youtube"></i></a></li>                        
-                        <li><a href="https://www.linkedin.com/school/1353501/" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="https://www.instagram.com/kluniversityofficial/" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="https://in.pinterest.com/kluniversityofficial/" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
+                        <li><a href="#" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Facebook"><i class="fa fa-facebook"></i></a></li>                        
+                        <li><a href="#" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Youtube"><i class="fa fa-youtube"></i></a></li>                        
+                        <li><a href="#" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="#" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Instagram"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
 
                     </ul>
 
@@ -747,4 +747,3 @@ overflow-x: hidden;
 
 </body>
 </html>
- 
