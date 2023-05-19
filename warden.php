@@ -404,7 +404,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body>
 
 
-<script type="text/javascript"> var npf_d='https://admissions.kluniversity.in'; var npf_c='383'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>
+<!-- <script type="text/javascript"> var npf_d='https://admissions.kluniversity.in'; var npf_c='383'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script> -->
 
 
 
@@ -926,14 +926,14 @@ top:hover, .article-body-wrap .share-links a:hover, .author-link, .carousel-wrap
                 <div class="container">
                     <p>© Copyright 2022 by SVECW. All Rights Reserved.</p>
 
-                    <ul class="social-icons std-menu pull-right">
+                    <!-- <ul class="social-icons std-menu pull-right">
                         <li><a href="https://www.facebook.com/KLUniversity/" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Facebook"><i class="fa fa-facebook"></i></a></li>                        
                         <li><a href="https://www.youtube.com/kluniversitylive" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Youtube"><i class="fa fa-youtube"></i></a></li>                        
                         <li><a href="https://www.linkedin.com/school/1353501/" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                 <li><a href="https://www.instagram.com/kluniversityofficial/" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Instagram"><i class="fa fa-instagram"></i></a></li>
                         <li><a href="https://in.pinterest.com/kluniversityofficial/" target="_blank" data-placement="top" rel="tooltip" title="" data-original-title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
 
-                    </ul>
+                    </ul> -->
 
                 </div>
             </div>
