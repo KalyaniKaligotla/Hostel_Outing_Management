@@ -310,7 +310,7 @@ include "config.php";
         }
     }
     function get_due($arr, $to){
-        if($arr == '0000-00-00'){
+        if($arr == null){
             return "---";
         }
         $arr = strtotime($arr);
