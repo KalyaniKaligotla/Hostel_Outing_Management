@@ -79,7 +79,7 @@ function get_status($f, $w){
     }
 }
 function get_due($arr, $to){
-    if($arr == '1912-12-12'){
+    if($arr == null){
         return "---";
     }
     $arr = strtotime($arr);
@@ -204,9 +204,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </head>
 <body>
-
-
-/* <script type="text/javascript"> var npf_d='https://admissions.kluniversity.in'; var npf_c='383'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script> */
 
 
 
