@@ -31,3 +31,10 @@ By incorporating these snapshot pages, the web application will not only offer f
 
 Screenshots of pages given below:
 ![image](https://github.com/KalyaniKaligotla/Hostel_Outing_Management-using-php-/assets/99170218/55b1bd15-9d51-4e53-9608-440cf2786458)
+![image](https://github.com/KalyaniKaligotla/Hostel_Outing_Management-using-php-/assets/99170218/42bd67d4-73e5-4949-9753-9c9830925d8c)
+![image](https://github.com/KalyaniKaligotla/Hostel_Outing_Management-using-php-/assets/99170218/9d272fb1-74b6-4ed5-abad-0c103af3e959)
+![image](https://github.com/KalyaniKaligotla/Hostel_Outing_Management-using-php-/assets/99170218/ef4726e4-8293-43a7-9e0b-df97e06beeb4)
+![image](https://github.com/KalyaniKaligotla/Hostel_Outing_Management-using-php-/assets/99170218/8ea5c7df-50d9-428e-b7f0-6ed8f2d90e14)
+
+
+
