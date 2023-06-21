@@ -1,13 +1,13 @@
 # Hostel_Outing_Management-using-php-
-Problem Statement:
+**Problem Statement:**
 
 The current system for managing hostel outings lacks an efficient and user-friendly interface, resulting in confusion and delays in processing outing applications. There is a need for a web-based solution that can streamline the outing management process for students, faculty, and the warden.
 
-Problem Description:
+**Problem Description:**
 
 The existing system requires students, faculty, and the warden to manually submit and process outing applications, leading to a lack of transparency and accountability. Students face difficulties in accessing their personal details and tracking the status of their outing applications. Faculty members and the warden have limited visibility into student records and struggle to verify past outing details. This inefficiency causes delays and errors in processing applications.
 
-Proposed Solution:
+**Proposed Solution:**
 
 The project aims to develop a web application that will address the challenges in hostel outing management. The application will provide separate login portals for students, faculty, and the warden. Upon successful authentication, users will be directed to their respective pages where they can access relevant information and perform necessary actions.
 
@@ -29,7 +29,7 @@ To enhance user experience and provide a visual representation of the system, th
 
 By incorporating these snapshot pages, the web application will not only offer functionality but also provide a visual representation of the various stages and actions involved in the hostel outing management process.
 
-Screenshots of pages given below:
+**Screenshots of pages given below:**
 ![image](https://github.com/KalyaniKaligotla/Hostel_Outing_Management-using-php-/assets/99170218/55b1bd15-9d51-4e53-9608-440cf2786458)
 ![image](https://github.com/KalyaniKaligotla/Hostel_Outing_Management-using-php-/assets/99170218/42bd67d4-73e5-4949-9753-9c9830925d8c)
 ![image](https://github.com/KalyaniKaligotla/Hostel_Outing_Management-using-php-/assets/99170218/9d272fb1-74b6-4ed5-abad-0c103af3e959)
